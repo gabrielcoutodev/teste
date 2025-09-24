@@ -9,14 +9,21 @@ Durante o processo de configuração e testes, tive algumas dificuldades técnic
 Mesmo assim, deixo aqui o código e a estrutura básica de como seria o nó, caso alguém queira revisar, testar ou dar continuidade.
 
 Estrutura esperada
+	
 	•	src/ → Onde ficam os arquivos principais do nó
+	
 	•	dist/ → Saída gerada após a compilação do TypeScript
+	
 	•	package.json → Configuração do projeto
+	
 	•	tsconfig.json → Configuração do compilador TypeScript
 
 Passos que segui
+	
 	1.	Criei a pasta do projeto e a estrutura de custom-nodes.
+	
 	2.	Configurei o package.json com as dependências necessárias.
+	
 	3.	Tentei compilar os arquivos com npm run build.
 
 Observação
