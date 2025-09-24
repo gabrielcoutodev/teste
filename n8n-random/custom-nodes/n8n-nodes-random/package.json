@@ -1,0 +1,13 @@
+{
+  "name": "n8n-nodes-random",
+  "version": "1.0.0",
+  "description": "Random node for n8n - True Random Number Generator via random.org",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.17",
+    "typescript": "^5.9.2"
+  }
+}
